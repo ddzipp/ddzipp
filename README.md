@@ -1,6 +1,3 @@
-
-
-<!--
 ## PERSONAL INFOMATION
 
 - 📫 How to reach me:G1282459418@Gmail.com 
@@ -22,4 +19,4 @@
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 
--->
+
