@@ -1,16 +1,25 @@
-## Hi there 👋
+
 
 <!--
-**ddzipp/ddzipp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## PERSONAL INFOMATION
 
-Here are some ideas to get you started:
+- 📫 How to reach me:G1282459418@Gmail.com 
+- 😄 Blog : https://ddzipp.github.io/
+
+## EDUCATION
+
+- **Chinese University of Hong Kong, Shenzhen** Sept. 2024 - Sept. 2026 
+  - Major: Computer Science Mphil
+
+- ****
+  - School of Software Engineering	Sept. 2020 - Jul. 2024 
+  - Major: Software Engineering
+
+## Activity
+
+![ddzipp's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddzipp)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
