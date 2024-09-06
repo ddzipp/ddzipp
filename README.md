@@ -1,8 +1,8 @@
 ## PERSONAL INFOMATION
 
-- 📫 How to reach me: G1282459418@Gmail.com 
+- 📫 How to reach me: 224045008@link.cuhk.edu.cn
 - 😄 Blog : https://ddzipp.github.io/
-- 🌱 I’m currently learning the security of LLM
+- 🌱 I’m currently learning the LLM Safety
 
 ## EDUCATION
 
