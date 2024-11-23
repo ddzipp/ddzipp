@@ -6,7 +6,7 @@
 
 ## EDUCATION
 
-- **Chinese University of Hong Kong, Shenzhen**   Sept. 2024 - Sept. 2026 
+- **The Chinese University of Hong Kong, Shenzhen**   Sept. 2024 - Sept. 2026 
   - School of Data Science
   - Major: Computer Science Mphil
 
